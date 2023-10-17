@@ -24,7 +24,7 @@ export default function MonitoringView() {
               type="search"
               name="search"
               placeholder="Search by username, email, role..."
-              className="h-[40px] w-[40%] border outline-none rounded placeholder:text-[#D0D3D9] placeholder:text-sm pl-8 active:border-[#E7EAEE]"
+              className="h-[40px] w-[40%] border outline-none rounded placeholder:text-[#D0D3D9] placeholder:text-sm pl-12 active:border-[#E7EAEE]"
             />
             <div className="flex items-center gap-3">
               <div className="flex items-center gap-3">
